@@ -106,6 +106,6 @@ README.md
 
 Geomatics Engineer • Environmental Project Manager
 GeoData Analytics • GIS & Remote Sensing Analyst 
-MBA ESG Paris (2026–2028)
 
-Côte d'Ivoire → France
+
+Côte d'Ivoire
