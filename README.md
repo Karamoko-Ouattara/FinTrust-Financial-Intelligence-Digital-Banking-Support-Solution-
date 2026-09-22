@@ -104,8 +104,8 @@ README.md
 
 **Karamoko Ouattara**
 
-Geomatics Engineer • Environmental Project Manager
-GeoData Analytics • GIS & Remote Sensing Analyst 
+Geomatics Engineer  • Environmental Project Manager
+GeoData Analytics   • GIS & Remote Sensing Analyst 
 
 
 Côte d'Ivoire
