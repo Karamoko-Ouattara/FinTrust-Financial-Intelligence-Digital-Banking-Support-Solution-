@@ -1,0 +1,5 @@
+transaction_status;total_transactions;percentage
+Successful;10856;90.47
+Failed;630;5.25
+Reversed;326;2.72
+Pending;188;1.57

@@ -1,0 +1,7 @@
+transaction_type;transaction_count;total_value
+Transfer;3549;237916700.41
+Card Purchase;3033;85863413.78
+Bill Payment;1475;28163647.51
+Cash Withdrawal;1430;67772362.11
+Deposit;1328;130985059.85
+Airtime/Data;1185;9776171.19
