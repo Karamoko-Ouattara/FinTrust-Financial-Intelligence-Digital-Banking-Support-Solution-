@@ -1,0 +1,26 @@
+// Total Transaction Volume
+Total Volume = SUM(Fact_Transactions[Transaction_Amount])
+
+// Transaction Count
+Total Transactions = COUNTROWS(Fact_Transactions)
+
+// Fraud Volume
+Fraud Volume = CALCULATE(
+    SUM(Fact_Transactions[Transaction_Amount]),
+    Fact_Transactions[Is_Fraud] = 1
+)
+
+// Fraud Rate (%)
+Fraud Rate % = 
+DIVIDE(
+    CALCULATE(COUNTROWS(Fact_Transactions), Fact_Transactions[Is_Fraud] = 1),
+    COUNTROWS(Fact_Transactions),
+    0
+) * 100
+
+// Average Transaction Value per High Risk Customer
+High Risk Avg Txn = 
+CALCULATE(
+    AVERAGE(Fact_Transactions[Transaction_Amount]),
+    Dim_Customers[Risk_Score] = "High"
+)
