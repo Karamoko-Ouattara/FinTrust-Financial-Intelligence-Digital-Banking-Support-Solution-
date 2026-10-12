@@ -1,0 +1,25 @@
+"customer_segment","profil","nb_clients","pct_du_segment","montant_total_ngn"
+"Everyday","Champions",145,20.4,90184310
+"Everyday","Nouveaux / récents",141,19.8,38632425
+"Everyday","Perdus",133,18.7,32446827
+"Everyday","À réactiver",128,18.0,29805432
+"Everyday","À risque (forte valeur)",93,13.1,56181363
+"Everyday","Fidèles",71,10.0,14208563
+"Premium","Champions",70,23.7,44709776
+"Premium","À réactiver",63,21.4,11345130
+"Premium","Nouveaux / récents",54,18.3,15203929
+"Premium","Perdus",51,17.3,12661197
+"Premium","À risque (forte valeur)",33,11.2,18363489
+"Premium","Fidèles",24,8.1,5467674
+"SME","À réactiver",49,22.7,13083345
+"SME","Champions",49,22.7,30569330
+"SME","Nouveaux / récents",41,19.0,12603493
+"SME","Perdus",38,17.6,9004829
+"SME","À risque (forte valeur)",26,12.0,15936803
+"SME","Fidèles",13,6.0,2593572
+"Student","Champions",54,19.4,35094652
+"Student","À réactiver",53,19.1,12944927
+"Student","Nouveaux / récents",52,18.7,14193967
+"Student","Perdus",44,15.8,13779674
+"Student","À risque (forte valeur)",39,14.0,24351893
+"Student","Fidèles",36,12.9,7110752
